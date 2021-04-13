@@ -1,1 +1,2 @@
 text in File B
+line added via web-ui
