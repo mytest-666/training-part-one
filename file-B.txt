@@ -1,2 +1,4 @@
 text in File B
 line added via web-ui
+edit file B remotely
+
