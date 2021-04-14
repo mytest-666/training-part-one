@@ -1,3 +1,7 @@
 Line added via web ui
 
 Line added locally
+Remote change in file-A
+Both lines added when resolving conflict; This line added as part of conflict resolution.
+Another line added to improve the resolution
+
